@@ -1,4 +1,4 @@
-# Intro
+# Intro/Read Me
 Hello! If you're here, I'm pretty much assuming you are from Pony Town. That being so, here are the basics:
 <ul> 
   <li> I am most often: AFK. If I don't respond that is likely why! I'm probably doing homework. </li>
